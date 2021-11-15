@@ -1,1 +1,1 @@
-# intern-academy
+# intern-projects
